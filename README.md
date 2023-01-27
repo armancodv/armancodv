@@ -2,11 +2,7 @@
 
 [![Website](https://img.shields.io/badge/Website-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white&link=https://arman.co.com/)](https://arman.co.com/) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&&target=_blanklogoColor=white&link=https://www.linkedin.com/in/armanco/)](https://www.linkedin.com/in/armanco/) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@armanco)](https://medium.com/@armanco) [![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white&link=https://play.google.com/store/apps/dev?id=7911251204915869705)](https://play.google.com/store/apps/dev?id=7911251204915869705)
 
-I am a ***senior web and android developer***, with many years of experience in web and app development, mainly working on **`#Javascript`**, **`#Kotlin`**, **`#PHP`**, and **`#Java`**.
-
-In web development, I worked with different ***frontend frameworks*** such as `React`, `Angular`, `Next`, and `Lit-element`. I have experience working with ***backend frameworks*** such as `Laravel` and `Express`. However, my preference is frontend development.
-
-In android development, I worked as a ***native developer*** using `kotlin` and `java` languages. By the way, I worked with `react native` and `cordova` as ***cross-platforms frameworks***.
+With **over 15 years of experience** in the industry, I am a **highly skilled front-end developer** with a **proven track record of delivering exceptional results**. My expertise in **TypeScript, JavaScript, React, Angular**, and other **modern technologies** allows me to build **high-performance, user-friendly apps** that meet the needs of both businesses and end-users. I am also **well-versed in mobile development**, with experience in **Android, Android TV, Fire TV, Chromecast, and Huawei**. In addition, I have a **strong understanding of design patterns, SOLID principles, and other software development best practices**, which enables me to create **maintainable and scalable code**. With a **passion for staying up-to-date with the latest technologies** and a **deep understanding of Agile methodologies**, I am confident in my ability to deliver **outstanding results for any front-end project**.
 
 ![Armancodv's github stats](https://github-readme-stats.vercel.app/api?username=armancodv&show_icons=true&theme=dark)
 
